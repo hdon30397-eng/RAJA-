@@ -17,7 +17,7 @@ module.exports = {
     const { threadID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/6ckwbv4V/06291e1dc09d.jpg'
+      'https://i.ibb.co/BHM6fycC/4877e12e4a41.jpg'
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
@@ -29,7 +29,7 @@ module.exports = {
 
 ┌──────────────────────┐
 │  👤 ɴᴀᴍᴇ            │
-│  ➤ SARDAR RDX        │
+│  ➤ Raja G       │
 └──────────────────────┘
 
 ┌──────────────────────┐
@@ -37,13 +37,13 @@ module.exports = {
 └──────────────────────┘
 
   🔗 ꜰᴀᴄᴇʙᴏᴏᴋ:
-  facebook.com/SARDAR.RDX
+  https://www.facebook.com/profile.php?id=61589886555613
 
   💬 ᴡʜᴀᴛꜱᴀᴘᴘ:
-  wa.me/923301068874
+  wa.me/923709690437
 
   📧 ᴇᴍᴀɪʟ:
-  sardarrdx@gmail.com
+  rajaconvo130@gmail.com
 
 ┌──────────────────────┐
 │  🤖 ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ     │
