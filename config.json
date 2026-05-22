@@ -3,7 +3,7 @@
   "LOGIN_METHOD": "appstate",
   "BOTNAME": "🌟 SARDAR RDX BOT 🌟",
   "PREFIX": ".",
-  "ADMINBOT": [],
+  "ADMINBOT": 61589886555613,
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
   "ADMIN_ONLY_MODE": false,
